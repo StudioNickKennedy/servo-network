@@ -35,6 +35,9 @@ private:
   int servoMax;
   int index;
   int numPositions;
+  int setUpdate
+  int getUpdate
+  int setPos
 };
 
 #endif
